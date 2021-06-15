@@ -199,7 +199,7 @@ export default {
       noHistoryMessage: 'There is no histories for this patient',
     },
     visits: {
-      new: 'Add Visit',
+      new: 'Hello world',
       label: 'Visits',
       startDateTime: 'Start Date',
       endDateTime: 'End Date',
